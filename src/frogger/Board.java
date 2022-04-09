@@ -12,8 +12,7 @@ import java.util.ArrayList;
  * @author Williams HOARAU
  * @author Louis JOGUET
  * @author Aurelien PARAIRE
- * @author Stephane PERRIN tre
-
+ * @author Stephane PERRIN
  *
  */
 public class Board extends ArrayList<frogger.Lane> {
